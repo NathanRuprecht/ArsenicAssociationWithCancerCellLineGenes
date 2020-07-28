@@ -1,0 +1,23 @@
+producer_class	xtools.gsea.GseaPreranked
+producer_timestamp	1593469671972
+param	rpt_label	pop1_8226S_ATO_G
+param	rnd_seed	timestamp
+param	set_min	3
+param	zip_report	false
+param	create_svgs	false
+param	scoring_scheme	weighted
+param	rnk	E:\ChemicalsAndCancer\GSEA\rnkFiles\Conditions\pop1_8226S_ATO_G.rnk
+param	norm	meandiv
+param	out	E:\ChemicalsAndCancer\GSEA\Results
+param	mode	Max_probe
+param	include_only_symbols	true
+param	help	false
+param	set_max	500
+param	gmx	E:\ChemicalsAndCancer\GSEA\GeneSets\c2.all.v7.1.symbols.gmt,E:\ChemicalsAndCancer\GSEA\GeneSets\c4.all.v7.1.symbols.gmt,E:\ChemicalsAndCancer\GSEA\GeneSets\c5.all.v7.1.symbols.gmt,E:\ChemicalsAndCancer\GSEA\GeneSets\c6.all.v7.1.symbols.gmt,E:\ChemicalsAndCancer\GSEA\GeneSets\c7.all.v7.1.symbols.gmt
+param	make_sets	true
+param	plot_top_x	20
+param	gui	false
+param	nperm	1000
+param	collapse	No_Collapse
+
+file	E:\ChemicalsAndCancer\GSEA\Results\pop1_8226S_ATO_G.GseaPreranked.1593469671972\index.html
